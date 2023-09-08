@@ -1,3 +1,28 @@
+# What is this website for?
+This program is for users to creat unique and randomized passwords according to their specifications.
+
+# How to use it?
+Open the website in your browser.
+
+<img src="images/Screenshot 2023-09-07 220104.png">
+
+Press the 'Generate Password' button.
+
+<img src="images/Screenshot 2023-09-07 220046.png">
+
+Answer the following prompts to your liking.
+
+<img src="images/Screenshot 2023-09-07 220111.png">
+
+Receive your password!
+
+<img src="images/Screenshot 2023-09-07 220059.png">
+
+## Link to website
+https://afj511.github.io/AvaJ-HW-Challenge-3-JS-Password/
+
+
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
